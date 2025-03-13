@@ -1,3 +1,4 @@
+# IMDB-Movies-Data-Analysis
 Main Goal: Analyze the IMDB dataset using SQL to uncover insights about movies and directors.image DATA OVERVIEW Movies Table: Attributes: ID, Title, Budget, Popularity, Release Date, Revenue, Vote Average, etc. Total Records: 47
 
 Directors Table: Attributes: Name, ID, Gender, Department. Total Records: 2,349
